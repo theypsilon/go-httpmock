@@ -1,4 +1,4 @@
-httpmock.go [![Build Status](https://travis-ci.org/theypsilon/httpmock.svg?branch=master)](https://travis-ci.org/theypsilon/httpmock)
+httpmock.go [![Build Status](https://travis-ci.org/theypsilon/go-httpmock.svg?branch=master)
 ======
 
 Simple utility, for mocking http connections. Work 90% based on this gist: https://gist.github.com/jarcoal/8940980
